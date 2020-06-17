@@ -6,4 +6,3 @@ sessions/
 autoload/
 tmp/
 .netrwhist
-coc-settings.json
